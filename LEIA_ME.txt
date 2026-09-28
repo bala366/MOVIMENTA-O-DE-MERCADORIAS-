@@ -1,0 +1,17 @@
+MOVIMENTAÇÃO DE PRODUTOS – CASARÃO DO CAMPO V1
+Base implantada: 1037 produtos extraídos das 75 páginas do PDF fornecido.
+TODOS começam com saldo ZERO. Nenhuma quantidade do PDF foi levada para o estoque inicial.
+
+FUNÇÕES
+- Lupa: pesquisa por código ou descrição.
+- Saldo anterior, entradas, saídas e saldo atual.
+- Importação de um ou vários XMLs NF-e.
+- XML localiza por cProd; se não existir, cadastra automaticamente com cProd, xProd e uCom.
+- Entrada usa qCom do XML.
+- Saída manual.
+- Histórico por produto.
+- PDF individual do produto.
+- PDF da base inteira.
+- PDF de todas as movimentações.
+- PDFs em Download/Movimentação de Produtos Casarão do Campo.
+- Rótulo fornecido aplicado ao APK.
